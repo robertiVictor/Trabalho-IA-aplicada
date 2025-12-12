@@ -14,4 +14,7 @@ Este software simula a personalidade do J.A.R.V.I.S. (assistente do Homem de Fer
 * Uma API Key do Google Gemini.
 
 
-1. 
+1. https://github.com/robertiVictor/Trabalho-IA-aplicada.git
+
+pip install -r requirements.txt
+
